@@ -1,4 +1,4 @@
-import 'package:card_list/core/utils/button/custom_elevetad_button.dart';
+import 'package:card_list/presentation/shared/widget/button/custom_elevetad_button.dart';
 import 'package:card_list/core/utils/color/custom_colors.dart';
 import 'package:card_list/core/utils/text_style/custom_text_style.dart';
 import 'package:card_list/core/utils/util.dart';

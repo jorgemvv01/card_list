@@ -40,10 +40,12 @@ lib/
 ├── core/                    # Common utilities, routing
 ├── domain/                  # Business models and core logic
 ├── presentation/            # Presentation layer (UI + state)
-│   └── home/                # Feature: Home
-│       ├── cubits/          # Cubit state management for Home
-│       ├── view/            # UI pages (screens)
-│       └── widgets/         # Reusable widgets for Home
+│   ├── home/                # Feature: Home
+│   │   ├── cubits/          # Cubit state management for Home
+│   │   ├── view/            # UI pages (screens)
+│   │   └── widgets/         # Reusable widgets for Home
+│   ├── shared/              # General reusable components
+│   └── not_found/           # NotFoundPage and related
 └── main.dart                # App entry point
 ```
 

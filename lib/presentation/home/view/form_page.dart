@@ -1,8 +1,8 @@
-import 'package:card_list/core/utils/button/custom_elevetad_button.dart';
+import 'package:card_list/presentation/shared/widget/button/custom_elevetad_button.dart';
 import 'package:card_list/domain/custom_card/model/custom_card.dart';
 import 'package:card_list/presentation/home/cubit/card_cubit.dart';
 import 'package:card_list/core/utils/text_style/custom_text_style.dart';
-import 'package:card_list/core/utils/textfield/custom_text_form_field.dart';
+import 'package:card_list/presentation/shared/widget/textfield/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
